@@ -1,0 +1,11 @@
+__pycache__/
+.mypy_cache/
+cardpic-fin/
+pics/
+cardtext-proj/cardtext/
+cardtext-proj/cardtext-fin/
+tmp.sh
+task.md
+record
+converted-pics.txt
+yihua/
